@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">jetpack_compose_testing</string>
+    <string name="detail_screen">Detail Screen</string>
+    <string name="home_screen">Home Screen</string>
+    <string name="home_btn_text">Send to next Screen</string>
+    <string name="detail_btn_text">Go back</string>
+    <string name="home_input_field_label">Type your name</string>
+</resources>
