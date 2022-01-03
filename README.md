@@ -43,7 +43,7 @@
     <br/>
 
     ---
-    # How to Native Testing Jetpack Compose apps
+    # How to find elements on Native Testing Jetpack Compose apps
     <br/>
 
-    - Working on a LinkedIn article explaining how to. Will add link here...
+    - Look my [LinkedIn article](https://www.linkedin.com/pulse/how-find-elements-testing-jetpack-compose-apps-rafael-muniz-vieira/?published=t&trackingId=t%2Fv98qCA%2BlU527ymEl3YWA%3D%3D).
